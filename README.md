@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first program.
+this is my first reposiratory program.
 auther-Prasad Shinde
